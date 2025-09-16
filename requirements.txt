@@ -27,3 +27,4 @@ httpx==0.25.2
 
 # Data validation and serialization
 email-validator==2.1.0
+
